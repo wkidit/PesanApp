@@ -1,6 +1,6 @@
 # PesanApp
 
-![image_2023-06-01_23-48-46](https://github.com/wkidit/PesanApp/assets/132723008/70043a6d-d48c-476c-828b-b090d30295bb)
+![image_2023-06-01_23-48-46](https://github.com/wkidit/PesanApp/assets/132723008/b03325be-e073-492f-a2ee-37f40168adc2)
 
 ### Prerequisites
 
